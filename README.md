@@ -3,7 +3,7 @@ Reproduction of an issue with nextjs and styled-components in safari
 
 To reproduce:
 
-1. Run `yarn; yarn build; yart start;
+1. Run `yarn && yarn build && yart start`
 2. Head to http://localhost:3000 in *safari*
 3. Hold shift and hit the reload button.
 4. Notice the text has dissappeared.
